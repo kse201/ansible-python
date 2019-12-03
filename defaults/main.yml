@@ -1,2 +1,5 @@
 ---
-pypi_libs: []
+pypi_libs:
+  - virtualenv
+  - pipenv
+  - pyenv
