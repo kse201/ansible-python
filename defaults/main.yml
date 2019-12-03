@@ -2,4 +2,3 @@
 pypi_libs:
   - virtualenv
   - pipenv
-  - pyenv
